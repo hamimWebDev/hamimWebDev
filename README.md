@@ -313,7 +313,7 @@ alt="netlify"
 
 - 📖 **&nbsp;Bachelor of Social Work**\
 📆 &nbsp;2024 - 2028 - Running\
-📍 **&nbsp;National University Of Bangladesh** -  Barishal-1825, Bangladesh
+📍 **&nbsp;National University Of Bangladesh-1110** -  Barishal, Bangladesh
 
 <img align="right" width="70px" src="https://i.ibb.co/DgYdcFd/college.jpg" />
 
