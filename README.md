@@ -347,15 +347,6 @@ alt="netlify"
  [**&nbsp;Github**](https://github.com/ProgrammingHero1)
 
 <img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
----
-
-<h2 align="left"> 👨‍💻 Online Courses</h2><br/>
-
-<details open>
-<summary style="font-size:1.5em;">📃 &nbsp;All Courses</summary>
-<br>
-
-<img align="right" width="70px" src="https://i.ibb.co/tKr0Zhv/ljkil.jpg" />
 
 - 📖 **&nbsp;Web Developing**\
 📆 &nbsp;batch-7\
@@ -364,6 +355,7 @@ alt="netlify"
  [**&nbsp;Github**](https://github.com/ProgrammingHero1)
 
 <img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
+
 <!--============================================================
                      FOOTER
 ===============================================================-->
