@@ -346,7 +346,7 @@ alt="netlify"
  [**&nbsp;Website**](https://www.programming-hero.com/)
  [**&nbsp;Github**](https://github.com/ProgrammingHero1)
 
-<img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
+<img align="right" width="70px" src="https://i.ibb.co/tKr0Zhv/ljkil.jpg" />
 
 - 📖 **&nbsp;Web Developing**\
 📆 &nbsp;batch-7\
