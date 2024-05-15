@@ -350,7 +350,8 @@ alt="netlify"
 <img align="right" width="70px" src="https://i.ibb.co/tKr0Zhv/ljkil.jpg" />
 
 - 📖 **&nbsp;Web Developing**\
-📆 &nbsp;batch-7\
+🎚️ &nbsp;level-2\
+📆 &nbsp;batch-3 - Running\
 📍 **&nbsp;Programming Hero** -  Dhaka, Bangladesh\
  [**&nbsp;Website**](https://www.programming-hero.com/)
  [**&nbsp;Github**](https://github.com/ProgrammingHero1)
