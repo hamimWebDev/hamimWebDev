@@ -309,6 +309,10 @@ alt="netlify"
   </td>
   
 </tr>
+<tr>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamimWebDev&theme=dark" height="160em" /> 
+</tr>
+
 </table>
 <!--- stats (end) -->
 </p>        
