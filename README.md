@@ -1,7 +1,3 @@
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamimWebDev&theme=dark" height="163em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamimWebDev&theme=dark" height="163em" /> 
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamimWebDev&theme=dark" height="160em" /> 
-<img src="https://streak-stats.demolab.com?user=hamimWebDev&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=0&order=3" height="161em" alt="streak graph"  />
 
 
   <!-- ============================================================
@@ -305,14 +301,11 @@ alt="netlify"
   <img width="100%" loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
   <img width="80% "align="center"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamimWebDev&theme=dark" /> 
 
-<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamimWebDev&theme=dark" height="163em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamimWebDev&theme=dark" width="100%" height="163em" />  -->
+
   </td>
   
 </tr>
-<!-- <tr>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamimWebDev&theme=dark" height="160em" /> 
-</tr> -->
+
 
 </table>
 <img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
@@ -320,7 +313,7 @@ alt="netlify"
   src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamimWebDev&theme=dark"
   alt="hamimWebDev-Banner"
 />
- 
+ <img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
 
 <!--- stats (end) -->
 </p>        
