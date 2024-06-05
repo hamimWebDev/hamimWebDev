@@ -299,9 +299,10 @@ alt="netlify"
   <br>
   <img width="80%"  align="center"  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamimWebDev&theme=dark" />
 
+  
+  <br>
+  <br>
   <img width="100%" loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
-  <br>
-  <br>
   <img width="80% "align="center"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamimWebDev&theme=dark" /> 
 
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamimWebDev&theme=dark" height="163em" />
@@ -314,13 +315,13 @@ alt="netlify"
 </tr> -->
 
 </table>
-
+<img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
 <img width="100%"
   src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamimWebDev&theme=dark"
   alt="hamimWebDev-Banner"
 />
-<img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" /> 
-<img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
+ 
+
 <!--- stats (end) -->
 </p>        
  
