@@ -284,7 +284,7 @@ alt="netlify"
 <td width="50%" align="center">
   <img width="100%" loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
   <br>
-  
+  <br>
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=hamimWebDev&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=false" />
 
   <img width="100%" loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
@@ -295,9 +295,18 @@ alt="netlify"
 
 </td>
 
-<td width="50%" align="center">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamimWebDev&theme=dark" height="163em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamimWebDev&theme=dark" width="100%" height="163em" /> 
+<td width="50%" align="center"><img width="100%" loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
+  <br>
+  <br>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=hamimWebDev&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=false" />
+
+  <img width="100%" loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
+  <br>
+  <br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hamimWebDev&theme=midnight-purple&hide_border=false" /> 
+  <img width="100%" loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
+<!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamimWebDev&theme=dark" height="163em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamimWebDev&theme=dark" width="100%" height="163em" />  -->
   </td>
   
 </tr>
