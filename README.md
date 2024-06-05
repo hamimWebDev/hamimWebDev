@@ -1,9 +1,9 @@
-
-
   <!-- ============================================================
                              HEADING
 ============================================================== -->
+
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
+
 <h1 align="center"> <img
     src="https://i.ibb.co/SNdPpy1/p1.gif"  width="80"/>Hello there... I am Hamim Howlader Asif <img
     src="https://i.ibb.co/NF034fM/p3.gif" width="50"/></h1> 
@@ -30,6 +30,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.ibb.co/zQgyj6G/p4.gif">
 
 ## <picture><img src="https://i.ibb.co/JRp2626/about-me.gif" width = 30px align="center"></picture><b> About Me</b>
+
 Greetings! I am Md. Hamim Howlader Asif, an adept Front-End Developer dedicated to crafting captivating web experiences that resonate with users. With extensive expertise in HTML, CSS, Bootstrap, Tailwind CSS, daisyUI, JavaScript, React.js, ReactVite, and Node.js, I specialize in pushing the boundaries of innovation through code.
 
 Driven by an unwavering commitment to excellence, I immerse myself in the dynamic realm of web development, constantly exploring new avenues to enhance user interfaces and elevate digital interactions. Whether orchestrating seamless and responsive designs or mastering the intricacies of front-end frameworks, I approach each project with fervor and precision.
@@ -37,7 +38,8 @@ Driven by an unwavering commitment to excellence, I immerse myself in the dynami
 Beyond mere coding, I embrace technology's transformative potential to foster connection, inspiration, and empowerment. By harnessing cutting-edge tools and methodologies, I endeavor to create immersive digital landscapes that captivate audiences and foster meaningful engagement.
 
 Embark with me on this exhilarating journey of innovation and creativity as we redefine the contours of web development. Together, let us forge extraordinary digital experiences that leave an indelible mark on the digital landscape.
- <img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
+<img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
+
 <!-- ============================================================
                       TROFFES
 ============================================================== -->
@@ -68,7 +70,7 @@ Embark with me on this exhilarating journey of innovation and creativity as we r
 <!-- ============================================================
                 PRESENT PRIMARY INFO
 ============================================================== -->
- 
+
 <h2 align="left"> 💻 Primary Info</h2><br/>
 - 🌱 I’m currently learning **React Native**
 
@@ -76,13 +78,13 @@ Embark with me on this exhilarating journey of innovation and creativity as we r
 
 - 📝 I regularly write articles on [LinkedIn]
 
-- 💬 Ask me about ***JavaScript***
+- 💬 Ask me about **_JavaScript_**
 
 - 📫 How to reach me <a href="mailto:mdhamimhowladerasif@gmail.com" target="_blank">mdhamimhowladerasif@gmail.com</a>
 
 - 📄 Know about my experiences <a href="" target="_blank" >Download My
-resume</a>
-<img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
+  resume</a>
+  <img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
 
 <!-- ============================================================
                  MY CONTACT INFORMATION
@@ -102,7 +104,8 @@ resume</a>
                   MY SKILLS INFORMATION
 ============================================================== -->
 
-## <img src="https://i.ibb.co/nPBVjBB/p11.webp" width ="25"> <b>  Skills</b> 
+## <img src="https://i.ibb.co/nPBVjBB/p11.webp" width ="25"> <b> Skills</b>
+
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img
@@ -197,7 +200,7 @@ resume</a>
     width="60"
     height="60"
   />
-</a> 
+</a>
 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img
@@ -295,18 +298,14 @@ alt="netlify"
   <br>
   <img width="80%"  align="center"  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamimWebDev&theme=dark" />
 
- 
-  
    <img width="100%" loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
    <br>
    <br>
-  <img width="80% "align="center"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamimWebDev&theme=dark" /> 
-
+  <img width="80% "align="center"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamimWebDev&theme=dark" />
 
   </td>
   
 </tr>
-
 
 </table>
 <img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
@@ -330,20 +329,20 @@ alt="netlify"
 <img align="right" width="70px" src="https://i.ibb.co/58V22Zs/university.png" />
 
 - 📖 **&nbsp;Bachelor of Social Work**\
-📆 &nbsp;2024 - 2028 - Running\
-📍 **&nbsp;Government Syed Hatem Ali College-1110** -  Barishal, Bangladesh
+  📆 &nbsp;2024 - 2028 - Running\
+  📍 **&nbsp;Government Syed Hatem Ali College-1110** - Barishal, Bangladesh
 
 <img align="right" width="70px" src="https://i.ibb.co/DgYdcFd/college.jpg" />
 
 - 📖 **&nbsp;HSC**\
-📆 2020 - 2022\
-📍 **Mahelara Degree College** - Gournadi, Barishal, Bangladesh
+  📆 2020 - 2022\
+  📍 **Mahelara Degree College** - Gournadi, Barishal, Bangladesh
 
 <img align="right" width="70px" src="https://i.ibb.co/52r7J8p/ak-school.jpg" />
 
 - 📖 **&nbsp;SSC**\
 📆 &nbsp;2019 - 2020\
-📍 **&nbsp;Batajore A.K Institution** - Gournadi, Barishal, Bangladesh 
+📍 **&nbsp;Batajore A.K Institution** - Gournadi, Barishal, Bangladesh
 </details>
 <img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
 
@@ -359,20 +358,20 @@ alt="netlify"
 <img align="right" width="70px" src="https://i.ibb.co/tKr0Zhv/ljkil.jpg" />
 
 - 📖 **&nbsp;Web Developing**\
-🎚️ &nbsp;level-1\
-📆 &nbsp;batch-7\
-📍 **&nbsp;Programming Hero** -  Dhaka, Bangladesh\
- [**&nbsp;Website**](https://www.programming-hero.com/)
- [**&nbsp;Github**](https://github.com/ProgrammingHero1)
+  🎚️ &nbsp;level-1\
+  📆 &nbsp;batch-7\
+  📍 **&nbsp;Programming Hero** - Dhaka, Bangladesh\
+   [**&nbsp;Website**](https://www.programming-hero.com/)
+  [**&nbsp;Github**](https://github.com/ProgrammingHero1)
 
 <img align="right" width="70px" src="https://i.ibb.co/tKr0Zhv/ljkil.jpg" />
 
 - 📖 **&nbsp;Web Developing**\
-🎚️ &nbsp;level-2\
-📆 &nbsp;batch-3 - Running\
-📍 **&nbsp;Programming Hero** -  Dhaka, Bangladesh\
- [**&nbsp;Website**](https://www.programming-hero.com/)
- [**&nbsp;Github**](https://github.com/ProgrammingHero1)
+  🎚️ &nbsp;level-2\
+  📆 &nbsp;batch-3 - Running\
+  📍 **&nbsp;Programming Hero** - Dhaka, Bangladesh\
+   [**&nbsp;Website**](https://www.programming-hero.com/)
+  [**&nbsp;Github**](https://github.com/ProgrammingHero1)
 
 <img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
 
