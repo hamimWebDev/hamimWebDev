@@ -296,9 +296,8 @@ alt="netlify"
 </td>
 
 <td width="50%" align="center">
-
-
-  
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamimWebDev&theme=dark" height="163em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamimWebDev&theme=dark" height="163em" />
   </td>
   
 </tr>
