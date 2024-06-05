@@ -319,10 +319,11 @@ alt="netlify"
   src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hamimWebDev&theme=dark"
   alt="hamimWebDev-Banner"
 />
+<img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" /> 
 <img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
 <!--- stats (end) -->
 </p>        
- <img width="100%" height='3px' loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" /> 
+ 
 <!--============================================================
                      Educational Background Section
 ===============================================================-->
