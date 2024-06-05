@@ -283,7 +283,7 @@ alt="netlify"
 <tr border="none">
 <td width="50%" align="center">
   <img width="100%" loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
-  <br><br>
+  <br>
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=hamimWebDev&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=false" />
 
