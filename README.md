@@ -1,4 +1,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamimWebDev&theme=dark" height="163em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamimWebDev&theme=dark" height="163em" /> 
+
+
   <!-- ============================================================
                              HEADING
 ============================================================== -->
