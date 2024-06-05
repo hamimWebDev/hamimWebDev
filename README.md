@@ -303,7 +303,7 @@ alt="netlify"
   <img width="100%" loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
   <br>
   <br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hamimWebDev&theme=midnight-purple&hide_border=false" /> 
+  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamimWebDev&theme=dark" /> 
   <img width="100%" loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
 <!-- <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamimWebDev&theme=dark" height="163em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamimWebDev&theme=dark" width="100%" height="163em" />  -->
