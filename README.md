@@ -294,7 +294,7 @@ alt="netlify"
   <img width="100%" loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
 
 </td>
-
+<td width="50%" align="center">
 <img width="100%" loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
   <br>
   <br>
