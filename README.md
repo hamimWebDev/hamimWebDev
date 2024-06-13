@@ -300,7 +300,6 @@ alt="netlify"
 
    <img width="100%" loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
    <br>
-   <br>
   <img width="80% "align="center"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamimWebDev&theme=dark" />
 
   </td>
