@@ -298,8 +298,9 @@ alt="netlify"
   <br>
   <img width="80%"  align="center"  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hamimWebDev&theme=dark" />
    <img width="100%" loading="lazy" src="https://i.ibb.co/X2cFxNG/p2.webp" />
- 
+  <br>
   <img width="80% "align="center"  src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hamimWebDev&theme=dark" />
+  <br>
   <br>
   </td>
   
